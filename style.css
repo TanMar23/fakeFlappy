@@ -1,0 +1,16 @@
+body {
+  background-color: peru;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+canvas {
+  border: 2px solid #BADA55
+}
+
+h2 {
+  color: whitesmoke;
+  font-size: 3rem;
+}
